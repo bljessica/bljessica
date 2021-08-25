@@ -8,8 +8,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with how to study continuously and efficiently
-- 💬 Ask me about anything
+- 🌱 I’m currently learning TypeScript.
+- 🤔 I’m looking for help with how to study continuously and efficiently.
+- 💬 Ask me about anything.
 
 ![](https://github-readme-stats.vercel.app/api?username=bljessica)
