@@ -14,4 +14,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=bljessica)
 
-![bljessica's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bljessica&layout=compact&hide_border=true&langs_count=10)
+![bljessica's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bljessica&layout=compact&langs_count=10)
