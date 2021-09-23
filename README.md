@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning opencv.
 - 🤔 I’m looking for help with how to study continuously and efficiently.
 - 💬 Ask me about anything.
 
